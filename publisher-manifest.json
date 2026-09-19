@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "348962c527320096b8d86a19",
+  "owner": "fdtuafv7t",
+  "repo": "page-35502d393d4bf7e5c30f79c4",
+  "title": "Xlinkworld",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "35502d393d4bf7e5c30f79c4",
+      "a": "Xlinkworld",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "Xlinkworld",
+      "brand": "Xlinkworld",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1e1c5cb20d9d5d508f1aaaf67b0a4b08277e1e701950c6833aa8ceffa112e580",
+      "content": {
+        "primary_entity": "Xlinkworld",
+        "keyword1": "Xlinkworld",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按 Windows、macOS、Android、iOS 与路由器等设备，选择匹配的客户端并导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选择合适套餐，完成订阅导入后即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，Xlinkworld 提供基础版、旗舰版与团队版三档加速方案，分别面向单人轻量、多设备日常与团队高带宽场景。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并含 IPLC 专线优化；团队版每月 1000GB 流量、支持 20 台设备。按 Clash Mi 等客户端文档导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与订阅周期三个角度，快速定位适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人或双人轻量使用，旗舰版与团队版覆盖多设备高流量需求。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 三档月流量，按日常用量对号入座。",
+          "AI_FEATURE_TITLE_2": "按月流量匹配",
+          "AI_FEATURE_TEXT_3": "年付方案分别为 ¥150、¥350 与 ¥850，长期使用更省心。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选服务到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Xlinkworld 面向不同设备与流量需求，提供基础版、旗舰版与团队版加速方案，支持常见客户端导入订阅。",
+          "AI_HERO_SUBTITLE": "多设备加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_2": "最高 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省心",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数与流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、流量额度与可用客户端范围。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照 Clash Mi 等客户端文档导入订阅信息，完成配置后连接使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Xlinkworld 加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xlinkworld 的套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "基础版适合轻量使用，每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备，适合多终端协作。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量可能影响连接，建议按实际设备数选择版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付灵活，适合短期尝试；年付方案折算后每月更低，基础版年付 150 元、旗舰版 350 元、团队版 850 元，长期使用更为划算。",
+          "AI_FAQ_QUESTION_4": "客户端如何导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再按客户端文档把订阅地址填入应用，选择节点后连接。不同桌面端与移动端操作略有不同，请查阅各自说明。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量、20 台设备以及 VIP 高带宽节点与定制路由，适合小型团队或多设备家庭集中管理使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ec4b7f42930a444ee1457a7649bd0a8484b7299a63201a821d3d92ff59c050d8",
+    "sitemap.xml": "e1cd7fdb40b740f447a5cde549e722c9fd091b4ab5ae569df68b900bba51d231",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fe981b1979c76f0b85960bfefe9041f78194ddf1fe108ca0960363e8aad2533a"
+}
